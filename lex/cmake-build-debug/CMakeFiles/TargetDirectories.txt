@@ -1,0 +1,3 @@
+C:/Users/18623/CLionProjects/lex/cmake-build-debug/CMakeFiles/lex.dir
+C:/Users/18623/CLionProjects/lex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/18623/CLionProjects/lex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
